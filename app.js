@@ -18,6 +18,6 @@ if (query) {
       }
    })
 } else {
-   console.log('Please provide location')
+   console.log('Please provide location...')
 }
 
